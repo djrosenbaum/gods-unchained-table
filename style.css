@@ -1,0 +1,13 @@
+body {
+    background-color: #030406;
+}
+
+.page-wrapper {
+    margin: 0 auto;
+    max-width: 1440px;
+    padding: 30px;
+}
+
+table {
+    color: #ccc;
+}
